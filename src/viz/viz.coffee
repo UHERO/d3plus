@@ -18,6 +18,7 @@ module.exports = ->
       chart:    require "./types/deprecated/chart.coffee"
       geo_map:  require "./types/geo_map.coffee"
       line:     require "./types/line.coffee"
+      line_bar: require "./types/line_bar.coffee"
       network:  require "./types/network.js"
       paths:    require "./types/paths.coffee"
       pie:      require "./types/pie.coffee"
